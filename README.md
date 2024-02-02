@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kristine (She/Her). I am a Data Analyst at TouchTunes based in Montreal, Quebec, Canada.
+- 👋 Hi, I’m Kristine (She/Her). I am a Data Analyst at TouchTunes based in Toronto, Ontario, Canada.
 - 🔭 I’m currently working with large datasets, performing data cleaning, exploration, analysis, modeling, and reporting. 
 - 👀 I'm interested in applying statistical methods in business contexts to help drive data-informed decision making.
 - 🌱 I'm looking to continue growing my Python skillset and connect with others in the Data Science Community!
